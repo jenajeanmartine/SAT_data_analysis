@@ -1,13 +1,13 @@
-# ReadME Project 1  |  Jena Brentano
+# Exploring SAT/ACT Data and Recommendations for Increasing SAT Participation  |  Jena Brentano
 
 
 ## Problem Statement
-	The College Board, the non-profit which creates and administers the SAT, wants insights on how they might increase participation in the test among US students. The data available pertain to the SAT and also the ACT which is a competing assessment not administered by the College Board. 
+The College Board, the non-profit which creates and administers the SAT, wants insights on how they might increase participation in the test among US students. The data available pertain to the SAT and also the ACT which is a competing assessment not administered by the College Board. 
     
 ---
 
 ## Description of Data
-	Available are four tables of data that outline the test scores and participation rates by state (plus Washington DC) of the SAT and the ACT for the years 2017 and 2018. Each of the four datasets have about 51 rows, and were originally obtained. Except for pertaining to the ACT 2017, the scores are broken down by subject, as well as given as totals/composites. Combined into one table, the data is as outlined in the data dictionary below. 5.	https://blog.collegevine.com/here-are-the-average-sat-scores-by-state/
+Available are four tables of data that outline the test scores and participation rates by state (plus Washington DC) of the SAT and the ACT for the years 2017 and 2018. Each of the four datasets have about 51 rows, and were originally obtained. Except for pertaining to the ACT 2017, the scores are broken down by subject, as well as given as totals/composites. Combined into one table, the data is as outlined in the data dictionary below. 5.	https://blog.collegevine.com/here-are-the-average-sat-scores-by-state/
 https://blog.prepscholar.com/act-scores-by-state-averages-highs-and-lows
     
 ### Data Dictionary
